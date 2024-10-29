@@ -1,6 +1,9 @@
+Usepopcorn is a dynamic web application designed for movie enthusiasts to discover and keep track of their favorite films and shows. With a sleek and intuitive interface, users can search for movies, view detailed information including ratings, genres, and summaries, and create personalized watchlists. The app leverages a movie database API to provide up-to-date information, making it easy for users to explore new releases and classic favorites. Whether you're planning a movie night or just looking for recommendations, Usepopcorn is your go-to tool for all things cinema!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To install all the packages that are necessary for this application, open new terminal, type "npm install" or "npm i", and hit Enter.
 
 ## Available Scripts
 
